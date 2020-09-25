@@ -21,7 +21,7 @@ body {
   margin: 0;
   font-family: "Montserrat";
   font-size: 18px;
-  line-height: 20px;
+  line-height: normal;
 }
 
 footer{
