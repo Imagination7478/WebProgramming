@@ -1,12 +1,12 @@
 # Website-Portfolio
-____
+__
 Website for my portfolio. Have written on 3th course in ITMO.
 # Languages
-____
+__
 HTML + CSS
 # Autor
-____
-Filimonov Dmitry
-[VK](https://vk.com/i_pak1)
-[Inst](https://filidmi)
-[Telegram](https://t.me/filidmi)
+__
+Filimonov Dmitry\n
+[VK](https://vk.com/i_pak1)\n
+[Inst](https://filidmi)\n
+[Telegram](https://t.me/filidmi)\n
