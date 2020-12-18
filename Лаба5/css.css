@@ -1,0 +1,118 @@
+@font-face {
+  font-weight: 400;
+  font-family: "Montserrat";
+  font-style: normal;
+  src: url("fonts/Montserrat-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: "Montserrat";
+  font-style: normal;
+  src: url("fonts/Montserrat-Bold.woff") format("woff");
+}
+.placesFlex{
+	display:flex;
+	justify-content:center;
+	flex-wrap: wrap;
+}
+
+.flex_item{
+	background: #EDEDDF;
+	font-size: 18px;  
+	color: #61615B;
+	text-align: center;	
+	margin: 5px; 
+	padding: 15px;
+	border-radius: 3px;
+}
+
+.left{
+	margin-right: 40%;
+	float: none;
+}
+
+.right{
+	float: right;
+}
+
+.MyCourses{
+	width:300px;
+	margin-top:318.5px;
+	background-color: #EDEDDF;
+	
+}
+
+.MyHobbies{
+	width:300px;
+	background-color: #EDEDDF;
+	
+}
+
+
+.MyWorks{
+	padding-top: 10px;
+}
+
+html{
+	background-color: #FFFFF0
+}
+
+html,
+body {
+	font-family: "Montserrat";
+	font-size: 18px;
+	line-height: normal;
+}
+
+footer{
+	clear:both;
+	margin-top: 40px;
+	float: none;
+	text-decoration: none;
+	background-color: #61615B;
+	color: #FFFFF0
+}
+
+header{
+	background-color: #61615B;
+}
+
+main {
+	margin: 50px;
+	
+}
+
+.code {
+	background-color: #EDEDDF;
+	border: 2px solid #C7C7BB;
+	
+}
+
+.list{
+	font-style: italic
+}
+
+.ascii{
+	text-align: center
+}
+
+h1 {
+	font-size: 32px;
+	color: #FFFFF0;
+	background-color: #61615B;
+}
+
+h2 {
+	font-size: 22px;
+	color: #FFFFF0;
+	background-color: #61615B;
+}
+
+nav{
+	color: #61615B;
+}
+
+b{
+	color: #61615B;
+}
